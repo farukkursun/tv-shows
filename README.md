@@ -1,5 +1,6 @@
 # Project : tv-shows
 https://tv-shows-psi.vercel.app/
+https://farukkursun.github.io/tv-shows/
 ## Description
 
 ## Project clone link
