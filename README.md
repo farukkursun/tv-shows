@@ -16,4 +16,4 @@ https://tv-shows-psi.vercel.app/
 - JS
 -
 ## Project image
-![proje image](https://github.com/farukkursun/tv-shows/master/img/tv-shows.png)
+![proje image](https://raw.githubusercontent.com/farukkursun/tv-shows/master/img/tv-shows.png)
