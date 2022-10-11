@@ -3,7 +3,7 @@ https://tv-shows-psi.vercel.app/
 ## Description
 
 ## Project clone link
-``
+`https://github.com/farukkursun/tv-shows.git`
 ## Project Skeleton
 ```
 
